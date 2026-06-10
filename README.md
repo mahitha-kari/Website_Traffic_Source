@@ -1,8 +1,13 @@
  Name: KARI MAHITHA 
+ 
  Domain: Data Analytics  
+ 
  Organization: CodtechIT Solutions Private Limited  
+ 
  Internship Period: 17 May 2026 - 28 June 2026  
+ 
  Intern ID: CITS845
+ 
 # Website Traffic Sources Analysis
 ## Project Overview
 
